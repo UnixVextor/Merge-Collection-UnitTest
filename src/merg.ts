@@ -27,6 +27,7 @@ const mergArray = (arr1: number[], arr2: number[]) => {
   return merged;
 };
 
+// function to merge array
 export const merge = (
   collection1: number[],
   collection2: number[],
